@@ -34,7 +34,7 @@
   "devDependencies": {
     "@darkobits/log": "^2.0.0-beta.15",
     "@darkobits/saffron": "^0.1.16",
-    "@darkobits/ts": "0.3.0-beta.7",
+    "@darkobits/ts": "0.23.0",
     "@signalstickers/stickers-client": "^1.0.2",
     "@types/bytes": "^3.1.0",
     "@types/fs-extra": "^9.0.6",
@@ -44,7 +44,7 @@
     "@types/ramda": "^0.27.34",
     "ajv": "^7.0.3",
     "ajv-errors": "^2.0.0",
-    "better-ajv-errors": "^0.7.0",
+    "better-ajv-errors": "^1.2.0",
     "bytes": "^3.1.0",
     "fs-extra": "^9.1.0",
     "gzip-size": "^6.0.0",
